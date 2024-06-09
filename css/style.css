@@ -2,7 +2,7 @@
 
 :root {
     --main-color: #2c3e50; /* Dark Blue */
-    --accent-color: #9CC2BF; /* Red */
+    --accent-color: #9CC2BF; / * Red */
     --background-color: #ecf0f1; /* Light Gray */
     --text-color: #2c3e50; /* Dark Blue */
     --border-radius: 95% 4% 97% 5% / 4% 94% 3% 95%;
